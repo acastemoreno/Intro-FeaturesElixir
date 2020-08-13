@@ -1,0 +1,68 @@
+* Slide Options                           :noexport:
+# ======= Appear in cover-slide ====================
+#+TITLE: Features Elixir
+#+SUBTITLE: Features del lenguaje (No concurrente)
+#+COMPANY: For Elixir Developers Mexico
+#+AUTHOR: Albert Castellano Moreno
+#+EMAIL: acastemoreno@gmail.com
+
+# ======= Appear in thank-you-slide ================
+#+GITHUB: http://github.com/acastemoreno
+
+# ======= Appear under each slide ==================
+#+FAVICON: images/elixir.png
+#+ICON: images/elixir.png
+#+HASHTAG: #elixirlang #myelixirstatus #ElixirMX
+
+# ======= Google Analytics =========================
+#+ANALYTICS: ----
+
+# ======= Org settings =========================
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: toc:nil num:nil ^:nil
+#+LANGUAGE: es
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="theme/css/custom.css" />
+
+* Objetivo propuesto
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+** Objetivo
+- Revisar los principales features de Elixir Lang.
+- No se consideran features de programacion concurrente y distribuida.
+- Orientado a desarrolladores que empiezan con el lenguaje y que no tienen un background de programacion funcional.
+
+* Contenido propuesto
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+** Contenido propuesto
+Los features que revisaremos seran:
+- Pattern Matching
+- Anonymous and Named Funtion (Inmutabilidad, Multiple bodys and guard clauses)
+- Pipe Operator
+- Special Forms
+  - case
+  - for
+  - with
+- Polymorphic Funcions (Protocols)
+- Type Specification
+
+** Propuesta Adicional
+Podemos usar kahoot para hacer mas amena la presentación.
+
+* Thank You ʕ•ᴥ•ʔ
+:PROPERTIES:
+:SLIDE: thank-you-slide segue
+:ASIDE: right
+:ARTICLE: flexbox vleft auto-fadein
+:END:
+
+* Footnotes
+[fn:1] [[https://www.youtube.com/watch?v=Z2DU0qLfPIY&feature=youtu.be&t=1080][ElixirConf 2018 - Keynote - Chris McCord]]
